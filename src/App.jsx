@@ -11,7 +11,7 @@ import UpdatePassword from "./pages/UpdatePassword";
 import About from "./pages/About";
 import PrivateRoute from "./components/core/Auth/PrivateRoute";
 import Dashboard from "./pages/Dashboard";
-import MyProfile from "./components/core/Dashboard/MyProfile";
+import MyProfile from "./components/core/DashBoard/MyProfile";
 import Cart from "./components/core/DashBoard/Cart";
 import Error from "./pages/Error";
 import Catalog from "./pages/Catalog";
