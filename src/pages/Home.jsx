@@ -1,6 +1,6 @@
 import { FaArrowRight } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import Banner from "../assets/Images/banner.mp4";
+import Banner from "../assets/images/banner.mp4";
 
 import Footer from "../components/common/Footer";
 import ReviewSlider from "../components/common/ReviewSlider";
