@@ -1,4 +1,3 @@
-// const BASE_URL = "http://localhost:4000/api/v1";
 const BASE_URL = import.meta.env.VITE_BASE_URL;
 // console.log("ENV VARS:", import.meta.env); // for Vite
 export const categories = {
@@ -53,11 +52,6 @@ export const courseEndpoints = {
 export const ratingsEndpoints = {
   REVIEWS_DETAILS_API: BASE_URL + "/course/getReviews",
 };
-
-// // CATEGORIES API
-// export const categories = {
-//   CATEGORIES_API: BASE_URL + "/course/showAllCategories",
-// };
 
 // CATALOG PAGE DATA
 export const catalogData = {
